@@ -1,6 +1,10 @@
 # X-Ray Simulator
 Turns an ASCII STL file into its x-ray simulation as bitmap image
 
+<img height="200" alt="Stanford Bunny STL representation" src="https://user-images.githubusercontent.com/12778335/67732785-b906b000-f9b9-11e9-8373-436e66ab5b0a.png"> |  <img height="200" alt="Stanford Bunny x-ray representation" src="https://user-images.githubusercontent.com/12778335/67732754-a12f2c00-f9b9-11e9-829b-fec4af42f134.png">
+:------------------------------------------------------------:|:---------------------------------------------------------------------------:
+
+
 ## Input
 * ASCII STL file
 * FILENAME should correspond to the name of the file (without the .stl extension)
